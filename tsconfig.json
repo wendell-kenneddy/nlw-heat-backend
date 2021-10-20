@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "strict": true,
+    "alwaysStrict": true,
+    "skipLibCheck": true,
+    "allowJs": true,
+    "noImplicitAny": true,
+    "noEmitOnError": true,
+    "typeRoots": ["./src/@types", "./node_modules/@types"]
+  }
+}
